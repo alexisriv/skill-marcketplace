@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skill-marcketplace",
+  "owner": {
+    "name": "Alexis Rivas"
+  },
+  "plugins": [
+    {
+      "name": "github-flow",
+      "description": "Enforces Gitflow conventions: branch naming, PR creation, merge strategies, and release management.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/alexisriv/skill-marcketplace.git",
+        "path": "github-flow",
+        "ref": "main"
+      }
+    }
+  ]
+}
