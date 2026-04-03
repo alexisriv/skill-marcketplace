@@ -37,8 +37,11 @@ Se activa automáticamente cuando surgen temas de flujo git. Aplica validación 
 - `git` instalado y repositorio inicializado
 - `gh` (GitHub CLI) instalado y autenticado — requerido para `/create-pr`
 
-## Instalación
+# Instalación
 
-```bash
+Ejecutar estos dos comandos en Claude Code desde cualquier proyecto:
+
+```
+/plugin marketplace add https://github.com/alexisriv/skill-marcketplace.git
 /plugin install github-flow@skill-marcketplace
 ```
