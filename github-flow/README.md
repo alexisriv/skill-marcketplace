@@ -42,6 +42,6 @@ Se activa automáticamente cuando surgen temas de flujo git. Aplica validación 
 Ejecutar estos dos comandos en Claude Code desde cualquier proyecto:
 
 ```
-/plugin marketplace add https://github.com/alexisriv/skill-marcketplace.git
-/plugin install github-flow@skill-marcketplace
+/plugin marketplace add https://github.com/alexisriv/custom-marcketplace.git
+/plugin install github-flow@custom-marcketplace
 ```
