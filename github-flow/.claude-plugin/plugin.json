@@ -1,8 +1,0 @@
-{
-  "name": "github-flow",
-  "description": "Enforces Gitflow conventions: branch naming, PR creation, merge strategies, and release management.",
-  "version": "1.0.0",
-  "author": {
-    "name": "Alexis Rivas"
-  }
-}

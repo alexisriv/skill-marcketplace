@@ -1,0 +1,8 @@
+{
+  "name": "git",
+  "description": "Comprehensive Git toolkit: branch naming conventions, PR creation, merge strategies, commit standards, and release management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alexis Rivas"
+  }
+}
